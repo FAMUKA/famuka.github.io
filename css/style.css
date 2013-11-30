@@ -1,8 +1,9 @@
 h1 {
-  color: hotpink
+  color: hotpink;
   font-size: 44pix;
   text-transform: uppercase;
 }
 
-p {color: skyblue;
+p { 
+  color: skyblue;
 }
