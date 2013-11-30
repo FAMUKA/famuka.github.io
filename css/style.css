@@ -4,6 +4,9 @@ h1 {
   text-transform: uppercase;
 }
 
-p { 
-  color: skyblue;
+h2 {color: darkgreen;
+    font-size: 38pix;
+}
+p {
+color: skyblue;
 }
