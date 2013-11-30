@@ -1,0 +1,5 @@
+<h1>{{ site.title }}</h1>
+<h2>{{ site.title2 }}</h2>
+
+<img src="http://farm1.staticflickr.com/185/423995700_6d82470639_m.jpg" width="240" height="179" alt="Dannenberg railstation"></a>
+<p>Dannenberg railstation</p>
